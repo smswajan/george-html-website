@@ -6,10 +6,7 @@
   "author": "SHAHJAHAN MD. SWAJAN <swajan.mis13.du@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "deploy": "firebase deploy --only hosting",
-    "clean": "gulp clean",
-    "build": "gulp build"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "gulp",
